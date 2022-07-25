@@ -1,4 +1,4 @@
-# Repr for https://github.com/expo/expo/issues/18358
+# Repro for https://github.com/expo/expo/issues/18358
 
 See environment in the issue report
 
